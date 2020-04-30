@@ -16,7 +16,7 @@
 # Screenshots of the application are below:
 
 ## Home Screen:
-![image](https://user-images.githubusercontent.com/64551550/80664978-9c0a8100-8ab1-11ea-89e3-a6fc11af0a9f.png =250x250)
+![image](https://user-images.githubusercontent.com/64551550/80664978-9c0a8100-8ab1-11ea-89e3-a6fc11af0a9f.png&s=200  )
 
 ## Login Screen:
 ![image](https://user-images.githubusercontent.com/64551550/80664994-a4fb5280-8ab1-11ea-9b3a-52a958c40465.png=250x250)
