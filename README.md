@@ -17,8 +17,8 @@
 
 ## Home Screen:
 
-<img src="https://user-images.githubusercontent.com/64551550/80664978-9c0a8100-8ab1-11ea-89e3-a6fc11af0a9f.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+<img src="https://user-images.githubusercontent.com/64551550/80664978-9c0a8100-8ab1-11ea-89e3-a6fc11af0a9f.png" alt="Screen"
+	title="HomeScreen" width="100" height="200" />
 
 ## Login Screen:
 ![image](https://user-images.githubusercontent.com/64551550/80664994-a4fb5280-8ab1-11ea-9b3a-52a958c40465.png)
