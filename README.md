@@ -1,4 +1,5 @@
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ## In this project, I learned the following things:
 
