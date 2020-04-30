@@ -1,5 +1,3 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 ## In this project, I learned the following things:
 
@@ -15,7 +13,20 @@ Format: ![Alt Text](url)
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
 
+# Screenshots of the application are below:
+
+## Home Screen:
+![image](https://user-images.githubusercontent.com/64551550/80664978-9c0a8100-8ab1-11ea-89e3-a6fc11af0a9f.png)
+
+## Login Screen:
+![image](https://user-images.githubusercontent.com/64551550/80664994-a4fb5280-8ab1-11ea-9b3a-52a958c40465.png)
+
+## Register Screen:
+![image](https://user-images.githubusercontent.com/64551550/80665009-afb5e780-8ab1-11ea-86a8-5beb129947a7.png)
+
+## Chat Screen:
+![image](https://user-images.githubusercontent.com/64551550/80664884-606fb700-8ab1-11ea-86a9-a5709ddd1f06.png)
+
+
 
 This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![image](https://user-images.githubusercontent.com/64551550/80664762-0a9b0f00-8ab1-11ea-95a0-1b7c48dc825e.png)
