@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>393912297250-6hc8almmqvvv0skh6d1hgov6e4ioml2b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.393912297250-6hc8almmqvvv0skh6d1hgov6e4ioml2b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxJRYcxKVeAYqeqSvMqS8zcw8MlIFHx3o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>393912297250</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ShahzebFast.Flash-Chat-iOS13</string>
+	<key>PROJECT_ID</key>
+	<string>shahzebflashapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shahzebflashapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:393912297250:ios:7a6380e1917f9eeef4277b</string>
+	<key>DATABASE_URL</key>
+	<string>https://shahzebflashapp.firebaseio.com</string>
+</dict>
+</plist>
