@@ -18,17 +18,26 @@
 ## Home Screen:
 
 <img src="https://user-images.githubusercontent.com/64551550/80664978-9c0a8100-8ab1-11ea-89e3-a6fc11af0a9f.png" alt="Screen"
-	title="HomeScreen" width="100" height="200" />
+	title="HomeScreen" width="140" height="250" />
 
 ## Login Screen:
-![image](https://user-images.githubusercontent.com/64551550/80664994-a4fb5280-8ab1-11ea-9b3a-52a958c40465.png)
+
+<img src="https://user-images.githubusercontent.com/64551550/80664994-a4fb5280-8ab1-11ea-9b3a-52a958c40465.png" alt="Screen"
+	title="LoginScreen" width="140" height="250" />
+
 
 ## Register Screen:
-![image](https://user-images.githubusercontent.com/64551550/80665009-afb5e780-8ab1-11ea-86a8-5beb129947a7.png)
+
+
+<img src="https://user-images.githubusercontent.com/64551550/80665009-afb5e780-8ab1-11ea-86a8-5beb129947a7.png" alt="Screen"
+	title="RegisterScreen" width="140" height="250" />
+
 
 ## Chat Screen:
-![image](https://user-images.githubusercontent.com/64551550/80664884-606fb700-8ab1-11ea-86a9-a5709ddd1f06.png)
 
-![image](https://user-images.githubusercontent.com/64551550/80664978-9c0a8100-8ab1-11ea-89e3-a6fc11af0a9f.png)
+
+<img src="https://user-images.githubusercontent.com/64551550/80664884-606fb700-8ab1-11ea-86a9-a5709ddd1f06.png" alt="Screen"
+	title="RegisterScreen" width="140" height="250" />
+
 
 This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
